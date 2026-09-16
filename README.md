@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Arthur, e atualmente sou desenvolvedor de sistemas jr na empresa Ecopower.</h2>
+<h2 align="left">Olá 👋! Meu nome é Arthur, e atualmente sou desenvolvedor de sistemas jr na empresa Ecopower Energia Solar.</h2>
 
 ###
 
